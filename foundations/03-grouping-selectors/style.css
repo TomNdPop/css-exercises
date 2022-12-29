@@ -1,0 +1,13 @@
+.rule1
+.rule2
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+}
+.rule1{
+    background-color: black;
+    color: white;
+}
+.rule2{
+    background-color: yellow;
+}
