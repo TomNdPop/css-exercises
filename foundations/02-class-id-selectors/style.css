@@ -1,0 +1,18 @@
+
+.fontbackground{
+    background-color: salmon;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.fontb2{
+    font-size: 24px;
+}
+#selection2{
+    color: blue;
+    font-size: 32px;  
+}
+#selection{
+    background: lightgreen;
+    font-weight: bold;
+}
+
+
